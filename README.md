@@ -1,6 +1,6 @@
 # FUTIK V1 - 3D Printed Folding Utility Knife / Box Cutter
 
-Fusion 360 CAD, STEP and 3D printing files (Bambu Lab P1S) for the folding utility knife / box cutter described in this post: https://raphtronic.blogspot.com/2025/05/diy-solder-glue-fumes-desk-filter.html
+Fusion 360 CAD, STEP and 3D printing files (Bambu Lab P1S) for the folding utility knife / box cutter described in this post: https://raphtronic.blogspot.com/2025/10/diy-folding-utility-knife-futik-v1-3d.html
 
 Comes in 2 versions: Basic or with Inlays.
 
