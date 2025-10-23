@@ -8,7 +8,7 @@ It can be printed in place, depending on filament type / printer. See details an
 
 Feel free to copy / remix / whatever.
 
-Happy slashing to all !
+Happy cutting to all !
 
 ![20251018_170950 crop](https://github.com/user-attachments/assets/d4247bbc-e059-40e4-a070-ad5c81257597)
 
