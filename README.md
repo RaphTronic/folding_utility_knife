@@ -1,4 +1,4 @@
-# FOUTIK V1 - 3D Printed Folding Utility Knife / Box Cutter
+# FOUTIK V1.2 - 3D Printed Folding Utility Knife / Box Cutter
 
 Fusion 360 CAD, STEP and 3D printing files (Bambu Lab P1S) for the folding utility knife / box cutter described in this post: https://raphtronic.blogspot.com/2025/10/diy-folding-utility-knife-futik-v1-3d.html
 
@@ -6,7 +6,7 @@ Comes in 2 versions: Basic or with Inlays.
 
 It can be printed in place, depending on filament type / printer. See details and instructions in the post above.
 
-Feel free to copy / remix / whatever.
+Feel free to copy / remix / publish / whatever.
 
 Happy cutting to all !
 
@@ -20,7 +20,4 @@ Happy cutting to all !
 
 ![futik knife with covers 3](https://github.com/user-attachments/assets/dc76e09d-0553-4490-817a-d4891317ff96)
 
-![basic split plate](https://github.com/user-attachments/assets/99edde70-6a29-4a31-9ce7-547ed3efe557)
-
-![inlays plate](https://github.com/user-attachments/assets/6f93ed10-942a-4e2b-8107-fcbbab947fe2)
-
+![plate all](https://github.com/user-attachments/assets/4cc4a2d5-e4d8-44b8-9c53-cc77f5739729)
