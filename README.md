@@ -2,9 +2,7 @@
 
 Fusion 360 CAD, STEP and 3D printing files (Bambu Lab P1S) for the folding utility knife / box cutter described in this post: https://raphtronic.blogspot.com/2025/10/diy-folding-utility-knife-futik-v1-3d.html
 
-Comes in 2 versions: Basic or with Inlays.
-
-It can be printed in place, depending on filament type / printer. See details and instructions in the post above.
+Comes in 2 versions: Basic or with Inlays. See details and instructions in the post above.
 
 Feel free to copy / remix / publish / whatever.
 
